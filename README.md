@@ -1,4 +1,5 @@
 # PokeMath
+
 Pokémon Math Game
 
 **Beskrivelse:**
@@ -9,3 +10,17 @@ Den aktive siden kan nås på https://www.pokemath.online/
 Nåverende betaversjon nås på https://www.pokemath.online/betab - Merk at å spille på beta vil overskrive data fra den normale versjonen, og kan i noen situasjoner ligge flere versjoner bak den aktive versjonen.
 
 Siden er fortsatt under utvikling, og kan inneholde feil eller unøyaktigheter.
+
+## Development
+
+Make sure to have node and npm installed, follow [this guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm);
+
+```sh
+# install dependencies
+npm install
+
+# run project
+npm run dev
+```
+
+Open [http://localhost:5173/christmas](http://localhost:5173/christmas)
